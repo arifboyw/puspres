@@ -28,7 +28,7 @@
         <div class="card card-outline card-primary">
             <div class="card-header text-center mt-3">
                 <img src="<?= base_url(); ?>assets/vendor/dist/img/unp.png" alt="KIPK Logo" class="brand-image img-circle bg-white elevation-3" height="70" width="75">
-                <h1><b>Pusat Prestasi</b></h1>
+                <h1><b>Pusat Prestasi 2</b></h1>
             </div>
             <div class="card-body">
                 <p class="login-box-msg">Silahkan Login</p>
